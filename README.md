@@ -18,6 +18,9 @@ I took Engineering 26: Three Dimensional Modeling for Design during Fall 2019. B
 ![Photo](models/slot.png)
 ##### Machine part with slots (Fusion 360)
 
+![Photo](models/clip.png)
+##### A Paper Clip (Fusion 360)
+
 ![Photo](models/AssemblyView.PNG)
 ##### Vise Assembly View
 
